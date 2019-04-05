@@ -12,6 +12,6 @@ module.exports = {
     twitter: "https://twitter.com/ryanafitzgerald",
     linkedin: "https://ca.linkedin.com/in/ryanafitzgerald",
   },
-  pathPrefix: "/devblog",
+  pathPrefix: "",
   siteUrl: "https://saurabhariyan.github.io/devblog/",
 };
